@@ -1,5 +1,4 @@
 # Free Google Translator with API
-### Developed by Kaloyan Kirilov
 
 Using Google Translate is perfect for texts up to 5000 characters, but what if you have a huge database with 10,000,000 strings? You can use the Google API, but the cost can be prohibitive.
 
